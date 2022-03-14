@@ -9,4 +9,3 @@ Two pages created one is the home page and another one is details page that will
 
 ### Food App Final UI
 
-![App UI](/ui.png)
